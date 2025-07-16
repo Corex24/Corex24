@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/2348036869669"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/2348036869669?text=Hi%20Corex%20💙%2C%20I%27m%20%22%5%5%5%22"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://t.me/corex2410"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://x.com/corex2410"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
