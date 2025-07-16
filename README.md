@@ -10,13 +10,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Ancore](https://github.com/Corex24/Ancore)
-- 👨‍💻 All my projects are available at [github.com/Corex24](https://github.com/Corex24)
-- 📫 How to reach me: **corexanthony24@gmail.com**
-- 💬 Contact: [t.me/corex2410](https://t.me/corex2410) | [wa.me/2348036869669](https://wa.me/2348036869669)
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
