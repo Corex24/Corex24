@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/174860691?v=4" width="120" style="border-radius: 50%;" alt="Corex Anthony Avatar" />
   <h1>Corex Anthony</h1>
-  <p>
-    <a href="https://github.com/Corex24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
 </div>
 <p>
 Hi, I’m Corex Anthony — a full-stack developer from Nigeria. I build fast, clean web applications and enjoy turning ideas into real products. I started by experimenting with browser dev tools and have been building ever since. I value simplicity, clean code, and shipping consistently.
