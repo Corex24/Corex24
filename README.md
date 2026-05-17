@@ -5,7 +5,6 @@
 
   <p>
     <a href="https://github.com/Corex24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <img src="https://komarev.com/ghpvc/?username=Corex24&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   </p>
 </div>
 
